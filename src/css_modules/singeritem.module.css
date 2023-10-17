@@ -1,0 +1,46 @@
+.singer {
+    width: 1089px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.card {
+    width: 266px;
+    height: 150px;
+    object-fit: cover;
+}
+.info {
+    width: 823px;
+    padding: 19px 0 15px 52px;
+    background-color: aliceblue;
+    
+}
+.singer_name {
+    font-weight: 900;
+    font-size: 49px;
+    /* margin-top: 19px; */
+    color: #2A8EB0;
+    opacity: 1;
+}
+.single {
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+    margin-top: 10px;
+}
+.rate {
+    display: flex;
+    flex-direction: row;
+}
+.rate_me {
+    margin: 10px 20px 10px 0;
+}
+.MuiRating-iconFilled {
+    color: yellow !important;
+}
+
+.MuiRating-iconEmpty {
+    color: yellow !important;
+}
