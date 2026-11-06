@@ -6,7 +6,7 @@
       "name": "Alicia Keys",
       "single": "Underdog",
       "rating": 5,
-      "coverUrl": "https://i.ibb.co/9NfsZgQ/alicia-keys.jpg",
+      "coverUrl": "/images/AliciaKeys.png",
       "color": "#2A8EB0"
 
     },
@@ -14,71 +14,58 @@
       "name": "Ariana Grande",
       "single": "Put Your Hearts Up",
       "rating": 7,
-      "coverUrl": "https://i.ibb.co/fxKWK1G/ariana-grandes.jpg",
+      "coverUrl": "/images/ArianaGrande.png",
       "color": "#D29602"
     },
     {
       "name": "Beyonce",
       "single": "Single Ladies",
       "rating": 4,
-      "coverUrl": "https://i.ibb.co/FzH8DSS/beyonce.jpg",
+      "coverUrl": "/images/Beyonce.png",
       "color": "#2B5583"
     },
     {
       "name": "Billie Eilish",
       "single": "Ocean Eyes",
       "rating": 3,
-      "coverUrl": "https://i.ibb.co/bgKJdvR/billie-eilish.jpg",
+      "coverUrl": "/images/BillieEilish.png",
       "color": "#678A08"
     },
     {
       "name": "Ed Sheeran",
       "single": "Shape of You",
       "rating": 4,
-      "coverUrl": "https://i.ibb.co/q0sb9Bq/ed-sheeran.jpg",
+      "coverUrl": "/images/EdSheeran.png",
       "color": "#F4890E"
     },
     {
       "name": "Jay Z",
       "single": "Wishing on a Star",
       "rating": 5,
-      "coverUrl": "https://i.ibb.co/ykK1ZVw/jay-z.jpg",
+      "coverUrl": "/images/JayZ.png",
       "color": "#292722"
     },
     {
       "name": "Lady Gaga",
       "single": "Stupid Love",
       "rating": 9,
-      "coverUrl": "https://i.ibb.co/dpZHnTs/lady-gaga.jpg",
+      "coverUrl": "/images/LadyGaga.png",
       "color": "#F24074"
-    },
-    {
-      "name": "Norah Jones",
-      "single": "I'm Alive",
-      "rating": 8,
-      "coverUrl": "https://i.ibb.co/DkKpLhC/norah-jones.jpg",
-      "color": "#747089"
     },
     {
       "name": "Idan Raichel",
       "single": "Beresheet",
       "rating": 9,
-      "coverUrl": "https://i.ibb.co/9n7MQ4L/idan-raichel.jpg",
+      "coverUrl": "/images/IdanRaichel.png",
       "color": "#772500"
-    },
-    {
-      "name": "Robbie Williams",
-      "single": "Love My Life",
-      "rating": 4,
-      "coverUrl": "https://i.ibb.co/2tj1KM0/robbie-williams.jpg",
-      "color": "#63022B"
     },
     {
       "name": "Tones and I",
       "single": "Dance Monkey",
       "rating": 10,
-      "coverUrl": "https://i.ibb.co/MRJjdjs/tones-and-i.jpg",
+      "coverUrl": "/images/TonesandI.png",
       "color": "#D62C01"
     }
   ]
 }
+
